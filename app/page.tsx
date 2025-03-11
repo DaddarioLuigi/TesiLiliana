@@ -19,7 +19,7 @@ import { TypeAnimation } from "@/components/type-animation"
 
 export default function Home() {
   return (
-    <> 
+    <>  
       <Script strategy="afterInteractive">
         {`
           var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
@@ -60,7 +60,7 @@ export default function Home() {
         <main className="container mx-auto px-4 py-12">
           <section className="mb-16 text-center">
             <h2 className="text-4xl font-bold text-slate-900 dark:text-white mb-4 animate-fade-in">
-              Riconosci e Previeni la Manipolazione Psicologica
+              Riconosci e Previeni la Manipolazione Psicologicaa
             </h2>
             <p className="text-xl text-slate-700 dark:text-slate-300 max-w-3xl mx-auto animate-slide-in-up animate-delay-200">
               Uno strumento basato sull&apos;intelligenza artificiale per aiutarti a identificare tecniche manipolative e proteggere la tua autonomia psicologica.

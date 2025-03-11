@@ -19,7 +19,7 @@ import { TypeAnimation } from "@/components/type-animation"
 
 export default function Home() {
   return (
-    <>
+    <> 
       <Script strategy="afterInteractive">
         {`
           var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
